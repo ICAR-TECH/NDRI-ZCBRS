@@ -47,10 +47,10 @@ Supports breed conservation and precision livestock management
 
 🧑‍🔬 Development Team
 
-Indu Devi, Samarth Godara, Sanjeet K. Verma, D. S. Tomar, Kuldeep Dudi
+Indu Devi &  Sanjeet K. Verma, ICAR-National Dairy Research Institute, Karnal-132001, Haryana, India
 
-ICAR-National Dairy Research Institute, Karnal-132001, Haryana, India
+D. S. Tomar, Rani Lakshmi Bai Central Agricultural University, Jhansi- 284003, Uttar Pradesh, India
 
-Rani Lakshmi Bai Central Agricultural University, Jhansi- 284003, Uttar Pradesh, India
+Kuldeep Dudi, Krishi Vigyan Kendra (under Haryana Agricultural University, Hisar), Panipat, Haryana, 132103, India
 
-Krishi Vigyan Kendra (under Haryana Agricultural University, Hisar), Panipat, Haryana, 132103, India
+Samarth Godara, ICAR-Indian Agricultural Statistics Research Institute. New Delhi, India. 
